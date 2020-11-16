@@ -1,0 +1,1 @@
+# JAViewer_properties
